@@ -1,0 +1,11 @@
+# Сборка .NET
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+
+# Прочее
+*.log
